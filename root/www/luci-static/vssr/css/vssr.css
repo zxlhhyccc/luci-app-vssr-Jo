@@ -252,7 +252,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE.md
     overflow-y: hidden;
     border: 1px solid rgba(0, 0, 0, .05);
     border-radius: .500rem;
-    background-color: #fff;
+    background-color: #f4;
     box-shadow: 0 0 2rem 0 rgba(136, 152, 170, .15);
 }
 
@@ -318,13 +318,13 @@ https://github.com/pure-css/pure/blob/master/LICENSE.md
 
 .cbi-section-table-row {
     position: relative;
-    background: #f3f9f1;
+    background: #f4;
     margin: 10px !important;
     padding: 18px 18px 18px 110px;
     box-shadow: 0 0 5px 0 rgba(136, 152, 170, .75);
     border-radius: .5rem;
     border: 0;
-    color: #180614;
+    color: #f4;
     text-align: left;
     line-height: 1.7em;
     overflow: hidden;
@@ -332,7 +332,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE.md
     transition: all 0.2s;
 }
 .cbi-section-table-row:hover{
-    background: #fff;
+    background: #F0E68C;
     
 }
 
@@ -358,7 +358,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE.md
     color: #fff !important;
 }
 .host_con.fast {
-    color: #6f9a37;
+    color: #00bc12;
 }
 
 .host_con.nopass {
@@ -478,7 +478,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE.md
       background-color: #008080 !important;
         border-color: #008080 !important;
         font-size:12px;
-        padding:0.6rem 0.8rem;
+        padding:0.4rem 0.8rem;
         float:right;
         margin-right:10px;
         margin-top:-0.3rem;
@@ -538,7 +538,7 @@ footer.mobile-hide{
     right: 0;
     box-shadow: 0 0 2rem 0 rgba(136,152,170,.3);
     color: #525f7f;
-    background: #fff;
+    background: #f4;
     z-index: 5;
     box-sizing: border-box;
 }
